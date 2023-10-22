@@ -37,7 +37,7 @@ To get started with 3D Spatial Motion, follow these steps:
 1. Clone this repository to your local machine.
 
    ```bash
-   git clone https://github.com/yourusername/3d-spatial-motion.git
+   git clone https://github.com/Kingefosa/3d-spatial-motion.git
 
 1. Install the required dependencies
 
